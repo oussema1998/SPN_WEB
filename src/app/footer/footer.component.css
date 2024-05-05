@@ -1,0 +1,9 @@
+:host {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f8f8; /* Couleur de fond du footer */
+    padding: 20px; /* Espace intérieur du footer */
+    text-align: center; /* Alignement du texte au centre */
+  }
+  
